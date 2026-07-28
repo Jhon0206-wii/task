@@ -1,0 +1,4 @@
+En primer lugar lo que hice fue crear un projecto con reac y typescript para empezar con los requerimientos que pedia el taller
+- en sengundo lugar lo que hice fue crear un projecto en supabase para crear una tabla con los datos que pedia
+- luego cree las polices y conecte supabase a mi proyecto en visualStudio utilizando .env y created client
+- empence a desarrollar las funciones como crear tareas, obtener tareas pero se quedo a medias
